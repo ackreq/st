@@ -116,11 +116,11 @@ char *termname = "st-256color";
 unsigned int tabspaces = 4;
 
 /* bg opacity */
-float alpha = 0.8;
+float alpha = 0.9;
 //float alpha = 1.0;
 
 /* color schemes */
-#include "palettes/TokyoStorm.h"
+#include "palettes/TokyoNight.h"
 
 /*
  * foreground, background, cursor, reverse cursor
